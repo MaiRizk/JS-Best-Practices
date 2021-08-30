@@ -2,7 +2,7 @@
 
 This is a simple to-do-list in which you can add, mark as done and remove daily tasks from the list.
 
-![Screenshot1](/Images/readme2.png)
+![Screenshot1](/src/Images/readme2.png)
 
 ## Built With
 
@@ -19,7 +19,7 @@ To get the live version just click the link down below. 👇🏽️
 
 ## Live Version Here 👇🏽️
 
-- [To-do-list](https://mairizk.github.io/To-do-list/src/index.html/)
+- [To-do-list](https://mairizk.github.io/JS-Best-Practices/src/index.html)
 
 ## Author
 
